@@ -250,25 +250,3 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 ## RESULT
 Thus the CNN model was trained and tested successfully on the MNIST dataset.
-
-```
-### OUTPUT
-
-## Training Loss per Epoch
-![Screenshot 2025-04-28 092434](https://github.com/user-attachments/assets/c96a7d04-8911-4e87-8f84-ce01123c0b64)
-
-
-## Confusion Matrix
-![Screenshot 2025-04-28 092507](https://github.com/user-attachments/assets/8b589ef5-a6ef-46bf-a19f-1cda78f73674)
-
-
-## Classification Report
-![Screenshot 2025-04-28 092534](https://github.com/user-attachments/assets/c9bbeafa-3a77-4a0e-9e2c-fe3cb1deb143)
-
-
-### New Sample Data Prediction
-![Screenshot 2025-04-28 092601](https://github.com/user-attachments/assets/d2cd7163-6c8f-47c7-8254-4f3f5ef7220e)
-
-
-## RESULT
-Thus the CNN model was trained and tested successfully on the MNIST dataset.
