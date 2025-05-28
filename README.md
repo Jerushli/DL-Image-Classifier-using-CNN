@@ -64,8 +64,6 @@ Train the model using the training dataset for multiple epochs.
 Evaluate the model using the test dataset and visualize the results (accuracy, confusion matrix, classification report, sample prediction).
 
 ## PROGRAM
-### Name: GIFTSON RAJARATHINAM N
-### Register Number: 212222233002
 
 ```python
 import torch
